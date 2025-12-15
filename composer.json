@@ -1,0 +1,16 @@
+{
+    "name": "179907/mvc_from_scratch",
+    "autoload": {
+        "App": {
+            "179907\\MvcFromScratch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LauriSilvo",
+            "email": "LSperuna@mail.com"
+        }
+    ],
+    "require": {}
+    
+}
